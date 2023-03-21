@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felix Chinonso Emmanuel</h1>
-<h3 align="center">A passionate Full Stack developer from Nigeria</h3>
+<h3 align="center">A passionate Frontend developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feelchi1star&label=Profile%20views&color=0e75b6&style=flat" alt="feelchi1star" /> </p>
 
