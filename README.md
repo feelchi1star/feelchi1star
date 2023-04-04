@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Felix Chinonso Emmanuel</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile;I'm+a+passionate+Frontend+Developer+from+Nigeria;Experience+Data+Analyst;GIS+Expert;with+more+than+10+years+work+experience;Always+learning+new+things+😃)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Pacifico&weight=600&pause=1000&color=D700FF&center=true&width=435&lines=I+am+a+Passionate+Frontend+Developer+;From+Nigeria;I+Love+to+Solve+Problems)](https://git.io/typing-svg)
 
-<!-- <h3 align="center">A passionate Frontend developer from Nigeria</h3> -->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feelchi1star&label=Profile%20views&color=0e75b6&style=flat" alt="feelchi1star" /> </p>
 
