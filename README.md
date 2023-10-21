@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **vuejs and python**
 
-- 👨‍💻 All of my projects are available at [https://feelchi1star.netlify.app/](https://feelchi1star.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://feelchi1star.vercel.app/](https://feelchi1star.vercel.app/)
 
 - 💬 Ask me about **React,Typscript, nodejs**
 
