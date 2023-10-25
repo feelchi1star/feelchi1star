@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Felix Chinonso Emmanuel</h1>
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Pacifico&weight=600&pause=1000&color=1B1F24&center=true&width=435&lines=I+am+a+Passionate+Frontend+Developer+;From+Nigeria;I+Love+to+Solve+Problems)](https://git.io/typing-svg)
+<p align="center">
 
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1B1AF7&center=true&vCenter=true&random=false&width=435&lines=I'm+a+Passionate+Fullstack+Developer;From+Nigeria%2C;I+Love+to+Solve+Problems.)](https://git.io/typing-svg)
+
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feelchi1star&label=Profile%20views&color=0e75b6&style=flat" alt="feelchi1star" /> </p>
