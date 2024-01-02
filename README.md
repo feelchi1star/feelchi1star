@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [krikia Estate Market Place](https://www.krikia.com)
 
-- 🌱 I’m currently learning **vuejs and python**
+- 🌱 I’m currently learning **vuejs and angular**
 
 - 👨‍💻 All of my projects are available at [https://feelchi1star.vercel.app/](https://feelchi1star.vercel.app/)
 
